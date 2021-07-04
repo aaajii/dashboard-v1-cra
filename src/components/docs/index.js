@@ -307,7 +307,7 @@ export default function Docs() {
       </section>
 
       <section
-        className="px-3 md:px-8 py-8"
+        className="px-3 md:px-8 py-8 mb-16"
         style={{ backgroundColor: 'rgb(146 151 179 / 13%)' }}
       >
         <h2 className="text-2xl font-medium">Customization</h2>
@@ -337,6 +337,27 @@ export default function Docs() {
             <strong>right :</strong> sidenav will be aligned to the right
           </li>
         </ul>
+      </section>
+
+      <section
+        className="px-3 md:px-8 py-8"
+        style={{ backgroundColor: 'rgb(146 151 179 / 13%)' }}
+      >
+        <h2 className="text-2xl font-medium">Components</h2>
+        <p className="mt-5">
+          If you'll need some UI components for Tailwind CSS such as modal,
+          accordion, dropdown, tab or other components, you can check out
+          <a
+            target="_blank"
+            rel="noreferrer noopener"
+            href="https://kimia-ui.vercel.app"
+            className="text-blue-500 px-1 font-medium"
+          >
+            Kimia-UI
+          </a>
+          , a collection of fully customizable UI components, without any
+          installation, just copy and paste the component you want to use.
+        </p>
       </section>
     </div>
   );
