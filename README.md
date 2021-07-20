@@ -1,6 +1,6 @@
 # Salvia-kit Dashboard v1 create-react-app
 
-![Kimia-UI](https://res.cloudinary.com/beloved/image/upload/v1626789445/dashboards/dashv1_lebeeb.jpg)
+![Salvia-kit Dashboard v1](https://res.cloudinary.com/beloved/image/upload/v1626789445/dashboards/dashv1_lebeeb.jpg)
 
 ## 📋 Documentation
 You can see the documentation on [http://localhost:3000/admin/documentation](http://localhost:3000/admin/documentation)
